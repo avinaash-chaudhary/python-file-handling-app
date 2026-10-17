@@ -20,3 +20,6 @@ For the terminal version:
 ```
 python filehandling.py
 ```
+## Screenshot
+<img width="837" height="835" alt="FileForge" src="https://github.com/user-attachments/assets/b74aded1-b9d6-4429-98a4-db634ab4d70d" />
+
